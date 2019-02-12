@@ -285,7 +285,7 @@ body {
 }
   
 .parallax-div {
-    position: fixed;
+    position: absolute;
     top: 0;
     background-position: center !important;
     background-size: cover;
@@ -596,7 +596,7 @@ body {
 }
   
 .parallax-div {
-    position: fixed;
+    position: absolute;
     top: 0;
     background-position: center !important;
     background-size: cover;
